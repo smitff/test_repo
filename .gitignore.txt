@@ -1,3 +1,3 @@
 #ignore notes.txt
-nofes.txt
+ok
 imgaes/*.jpg
